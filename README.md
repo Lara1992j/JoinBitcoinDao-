@@ -30,10 +30,6 @@ Watch beginner-friendly tutorials covering Web3 tools, GitHub, wallets, and aird
 
 Our mission is to make Web3 education accessible for everyone and help newcomers navigate the crypto ecosystem with confidence.
 
-
-
-fergrfedfgbd
-
 ## Disclaimer
 
 All content shared through JoinBitcoinDao is for educational purposes only and should not be considered financial advice.
